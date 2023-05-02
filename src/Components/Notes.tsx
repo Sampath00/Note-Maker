@@ -1,7 +1,6 @@
 import * as React from 'react';
 import { Note } from '../Models/note.model';
 import { Box, Text, Card, CardBody, CardHeader, SimpleGrid, CardFooter, Button, Icon } from '@chakra-ui/react';
-import { DeleteIcon } from '@chakra-ui/icons';
 
 
 interface INotesProps {
